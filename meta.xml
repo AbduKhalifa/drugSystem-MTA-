@@ -1,0 +1,14 @@
+<meta>
+    <info author="bin khalifa" version="1.0.0" name="drugs" description="drug system"/>
+    <script src="settings.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" cache="false" />
+    <script src="gui.lua" type="client" cache="true" />
+    <script src="functions.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+    <file src="images/surge.png"/>
+    <file src="images/speed.png"/>
+    <file src="images/adren.png"/>
+    <file src="images/weed.png"/>
+    <file src="images/viper.png"/>
+    <file src="images/havoc.png"/>
+</meta>
